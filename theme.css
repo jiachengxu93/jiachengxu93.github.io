@@ -1,0 +1,66 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+    position: static;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+    margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+    width: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a.button, a.button:link, a.button:visited, a.button:hover, a.button:active {
+    border-radius: 5px;
+    background: #BF5700;
+    color: #FFFFFF;
+    padding: 2px 4px 2px 4px;
+    font-size: 11px
+}
+
+a.publink {
+    color: #000000;
+    font-weight: bold;
+}
+
+a.publink:hover {
+    color: #BF5700;
+}
+
+publist {
+    font-size: 100%
+}
+
+a.au {
+    color: #000000;
+}
+
+a.au:hover {
+    color: #BF5700;
+}
+
+/*p {*/
+/*    margin: 5px;*/
+/*    padding: 10px;*/
+/*    line-height: 20px;*/
+/*}*/
+
+ul {
+    margin-left: 0;
+    padding-left: 0;
+}
